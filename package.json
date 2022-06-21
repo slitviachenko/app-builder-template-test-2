@@ -1,0 +1,21 @@
+{
+  "name": "@litviachenko/app-builder-template-test-2",
+  "version": "1.0.0",
+  "description": "A template for testing purposes [1.0.0]",
+  "engines": {
+    "node": "^14 || ^16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slitviachenko/app-builder-template-test-2.git"
+  },
+  "keywords": [
+    "aio",
+    "adobeio",
+    "app",
+    "templates",
+    "aio-app-builder-template"
+  ],
+  "author": "Adobe Inc.",
+  "license": "Apache-2.0"
+}
